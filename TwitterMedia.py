@@ -35,7 +35,7 @@ class TwitterMediaContent:
 
 class TwitterMedia:
     def __init__(self, use_print=False):
-        self._token = ''
+        self._token = '5050150479:AAE3QJAgLW88isOmXbxfysK0sJFTgf0InDs'
         self._is_token_generated = False
         self._use_print = use_print
         self.main_page = 'https://twittervideodownloader.com/'
